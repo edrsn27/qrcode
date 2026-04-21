@@ -8,9 +8,12 @@ function App() {
   return (
     <div className="page">
       <header className="page-header">
-        <div>
-          <h1>REVSPH Forms</h1>
-          <p>QR Codes — Share &amp; Edit</p>
+        <div className="header-brand">
+          <img src="/revsph-icon.png" alt="REVSPH" className="brand-icon" />
+          <div>
+            <h1>REVSPH Forms</h1>
+            <p>QR Codes — Share &amp; Edit</p>
+          </div>
         </div>
         <button className="print-btn" onClick={() => window.print()}>
           Print

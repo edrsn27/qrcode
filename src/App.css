@@ -11,6 +11,18 @@
   box-sizing: border-box;
 }
 
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.brand-icon {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
 .page-header {
   display: flex;
   align-items: flex-start;
