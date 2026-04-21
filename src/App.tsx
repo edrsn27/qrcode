@@ -30,13 +30,13 @@ function App() {
               <div className="qr-item">
                 <span className="qr-label share">Share</span>
                 <QRCode value={form.share} size={140} />
-                <span className="qr-url">{form.share}</span>
+                <a className="qr-btn share" href={form.share} target="_blank" rel="noreferrer">Open Share</a>
               </div>
               <div className="qr-divider" />
               <div className="qr-item">
                 <span className="qr-label edit">Edit</span>
                 <QRCode value={form.edit} size={140} />
-                <span className="qr-url">{form.edit}</span>
+                <a className="qr-btn" href={form.edit} target="_blank" rel="noreferrer">Open Edit</a>
               </div>
             </div>
           </div>

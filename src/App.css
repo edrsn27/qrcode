@@ -143,6 +143,26 @@
   }
 }
 
+.qr-btn {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 4px;
+  background: #dbeafe;
+  color: #1d4ed8;
+  text-decoration: none;
+  transition: opacity 0.2s;
+
+  &:hover {
+    opacity: 0.75;
+  }
+
+  &.share {
+    background: #dcfce7;
+    color: #15803d;
+  }
+}
+
 .qr-url {
   font-size: 8px;
   color: var(--text);
