@@ -76,4 +76,39 @@ export const FORMS: Form[] = [
       "https://docs.google.com/forms/d/e/1FAIpQLSe7wHdj_nb_FPYXk0VAcU8D2_GEBjxss-kGmupFv_CxKn7fXw/viewform",
     edit: "https://docs.google.com/forms/d/13bNAxuVIiesrl27zPCgzDrfMmyQircAg6nwm7pFoBB0/edit",
   },
+  {
+    id: "11",
+    name: "Customer Application (REVSPH MOBILITY CORPORATION)",
+    share:
+      "https://docs.google.com/forms/d/e/1FAIpQLSexTw3cYdx_kpb5O-Yx0oDIJ-1cJXT4tM5sHah7UszofRvbJw/viewform",
+    edit: "https://docs.google.com/forms/d/1fXzwYGmfOWZW8OkpHEhESVbrljK5xfs0FhJMpU8ju-8/edit",
+  },
+  {
+    id: "12",
+    name: "KYC Checklist (REVSPH MOBILITY CORPORATION)",
+    share:
+      "https://docs.google.com/forms/d/e/1FAIpQLSdsksUrVYMk4NP5mdkn0R2QXhWSxTvXcCrBJivrLQQe34sr7w/viewform",
+    edit: "https://docs.google.com/forms/d/14yVXSskHWelTPGrhVYUG7dUjPiE-W6Mv_HHHXkkfRjs/edit",
+  },
+  {
+    id: "13",
+    name: "Proof of Income (REVSPH MOBILITY CORPORATION)",
+    share:
+      "https://docs.google.com/forms/d/e/1FAIpQLScXMxF__cT74IJh72Q1mZpoViueCdCO0QTjclUaRA4OB8Qk-A/viewform",
+    edit: "https://docs.google.com/forms/d/1yr43lAuKdeXjOQcqUAwoBUbvrMiJfPevyjLvPCHHAdo/edit",
+  },
+  {
+    id: "14",
+    name: "Risk Assessment (REVSPH MOBILITY CORPORATION)",
+    share:
+      "https://docs.google.com/forms/d/e/1FAIpQLSeqp6_93sSnBJhgEqe4pL7exsAwz-EnQEpumLYCdeJmNDiUBQ/viewform",
+    edit: "https://docs.google.com/forms/d/17lyZMHc-KP0qRgiC6_5n0YkyZYoYfU_dIXQcaYr04lE/edit",
+  },
+  {
+    id: "15",
+    name: "Undertaking & Consent (REVSPH MOBILITY CORPORATION)",
+    share:
+      "https://docs.google.com/forms/d/e/1FAIpQLSftC8FhmWt6wR0YuErOTHQcyCdHJg2QLc3q626tte7QYt3FNA/viewform",
+    edit: "https://docs.google.com/forms/d/1bSEWw6wcYfMgKosBIHuFGU2-fUU3RIwVnU_kawGmsB8/edit",
+  },
 ];
