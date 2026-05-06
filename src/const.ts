@@ -8,10 +8,10 @@ export interface Form {
 export const FORMS: Form[] = [
   {
     id: "01",
-    name: "Credit Application (REVSPH) (REVSPH MOBILITY CORPORATION)",
+    name: "EV Finance Application (REVSPH MOBILITY CORPORATION)",
     share:
-      "https://docs.google.com/forms/d/e/1FAIpQLSdyfPEqfdUGw0NVLj9c2uWr7FbHF5Yb48BLtTtXrhzudOqTNg/viewform",
-    edit: "https://docs.google.com/forms/d/1KYMgUvrom1EMEjMckSU6M7w6Tpsk80rGE-qC6rlQmDU/edit",
+      "https://docs.google.com/forms/d/e/1FAIpQLSdg9PJA-8BqCMUDhW2UJjBfO5NtTfFImWRIZeG8GJbXDHHpew/viewform",
+    edit: "https://docs.google.com/forms/d/1XVXcbaObkzJOmsEC7GT0ZUry-abACcgzBYAjdPgORAw/edit",
   },
   {
     id: "02",
@@ -78,10 +78,10 @@ export const FORMS: Form[] = [
   },
   {
     id: "11",
-    name: "Customer Application (REVSPH MOBILITY CORPORATION)",
+    name: "Loan Application (REVSPH MOBILITY CORPORATION)",
     share:
-      "https://docs.google.com/forms/d/e/1FAIpQLSdg9PJA-8BqCMUDhW2UJjBfO5NtTfFImWRIZeG8GJbXDHHpew/viewform",
-    edit: "https://docs.google.com/forms/d/1XVXcbaObkzJOmsEC7GT0ZUry-abACcgzBYAjdPgORAw/edit",
+      "https://docs.google.com/forms/d/e/1FAIpQLSdyfPEqfdUGw0NVLj9c2uWr7FbHF5Yb48BLtTtXrhzudOqTNg/viewform",
+    edit: "https://docs.google.com/forms/d/1KYMgUvrom1EMEjMckSU6M7w6Tpsk80rGE-qC6rlQmDU/edit",
   },
   {
     id: "12",
